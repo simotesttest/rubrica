@@ -1,7 +1,7 @@
 {
     "Contact": {
       "name": { "string": {} },
-      "telefoneNumber" : { 
+      "telephoneNumber" : { 
         "string": [
             "334 534663454",
             "337 745587744",
