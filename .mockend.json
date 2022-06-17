@@ -1,5 +1,6 @@
 {
     "Contact": {
-      "name": { "string": {} }
+      "name": { "string": {} },
+      "telefoneNumber" : { "string": "335 68546496"}
     }
 }
