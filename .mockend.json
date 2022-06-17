@@ -1,6 +1,12 @@
 {
     "Contact": {
       "name": { "string": {} },
-      "telefoneNumber" : { "string": "335 68546496"}
+      "telefoneNumber" : { 
+        "string": [
+            "334 534663454",
+            "337 745587744",
+            "347 284620605"
+        ]
+      }
     }
 }
