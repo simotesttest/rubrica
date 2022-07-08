@@ -1,0 +1,19 @@
+{
+    "Contact": {
+      "name": { 
+		"string": [
+			"Mario",
+			"Giovannni",
+			"Simone",
+			"Luca"
+		  ]
+		},
+      "telephoneNumber" : { 
+        "string": [
+            "334 534663454",
+            "337 745587744",
+            "347 284620605"
+        ]
+      }
+    }
+}
